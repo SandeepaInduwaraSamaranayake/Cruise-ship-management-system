@@ -1,0 +1,17 @@
+Cabin 0 is Empty
+Cabin 1 is Occupied by : 
+ | SANDEEPA SAMARANAYAKE - Expenses :0.0 $ | 
+ | LOKITH SRINAYAKE - Expenses :0.0 $ | 
+ | KUMOD HANSIDU - Expenses :0.0 $ | 
+ [ The Total Expense For cabin 1 : 0.0 $ ]
+Cabin 2 is Empty
+Cabin 3 is Empty
+Cabin 4 is Empty
+Cabin 5 is Empty
+Cabin 6 is Empty
+Cabin 7 is Empty
+Cabin 8 is Empty
+Cabin 9 is Empty
+Cabin 10 is Empty
+Cabin 11 is Empty
+ __________________ The Total Expense For All 12 Cabins is :0.0 $ __________________
