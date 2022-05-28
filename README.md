@@ -29,6 +29,6 @@ IntelliJ IDEA
 1) First you need to clone this repository
 2) Run this project as part of java code through IntelliJ IDEA.
 
-## Note - If this project helped you, kindly don't forget to give this repository a star that motivates me to work further and improve this project.
+#### Note - If this project helped you, kindly don't forget to give this repository a star that motivates me to work further and improve this project.
 
 
