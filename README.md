@@ -14,10 +14,10 @@ This repository consists of Java program for a Cruise Ship management System. Th
 In this program exception handling is properly done to deal with any kind of unexpected exception. Basically this program contains three main versions(as Packages).<br>
 <br> 1) Cruise_Ship_Boarding_Program_Task_1 - This is a basic version of the program with limited features. This version allows you to populate twelve cabins, one passenger for each cabin and perform basic activities like add & delete passengers, Display empty cabins, view all cabin status etc.<br>
 
-* ### a ) Menu example<br>
+### a ) Menu example<br>
 ______________BOARDING SYSTEM FOR A CRUISE SHIP_________________<br>
 
-M: Show Menu<br>
+*M: Show Menu<br>
 A: Add a Customer to a Cabin<br>
 V: View All Cabins<br>
 E: Display Empty cabins<br>
@@ -26,7 +26,7 @@ F: Find cabin from customer name<br>
 S: Store program data into file<br>
 L: Load program data from file<br>
 O: View passengers Ordered alphabetically by name<br>
-X: Exit<br> *
+X: Exit*<br> 
 ________________________________________________________________<br><br>
 
 ### b ) Add a customer to a cabin.<br>
