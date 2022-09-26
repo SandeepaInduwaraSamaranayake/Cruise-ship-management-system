@@ -13,6 +13,22 @@ This repository consists of Java program for a Cruise Ship management System. Th
 <br><br>
 In this program exception handling is properly done to deal with any kind of unexpected exception. Basically this program contains three main versions(as Packages).<br>
 <br> 1) Cruise_Ship_Boarding_Program_Task_1 - This is a basic version of the program with limited features. This version allows you to populate twelve cabins, one passenger for each cabin and perform basic activities like add & delete passengers, Display empty cabins, view all cabin status etc.<br>
+
+Menu example<br>
+______________BOARDING SYSTEM FOR A CRUISE SHIP_________________
+
+M: Show Menu
+A: Add a Customer to a Cabin
+V: View All Cabins
+E: Display Empty cabins
+D: Delete customer from cabin
+F: Find cabin from customer name
+S: Store program data into file
+L: Load program data from file
+O: View passengers Ordered alphabetically by name
+X: Exit
+________________________________________________________________<br>
+
 <br> 2) Cruise_Ship_Boarding_Program_Task_2 - This version can hold upto 36 passengers, as 3 passengers per cabin. This version will hold passenger's first name, surname and expences and this consist an sdditional menu item "T" which will give the user the option to print the expenses per passenger as well as the total expenses of all passengers.<br>
 <br> 3) Cruise_Ship_Boarding_Program_Task_3 - As an additional feature, a waiting list of 10 slots is added to the cruise ship. If the cruise ship is full(all cabins are occupied by passengers), then passengers will be added to the waiting list.
 
