@@ -29,7 +29,7 @@ O: View passengers Ordered alphabetically by name<br>
 X: Exit<br>
 ________________________________________________________________<br><br>
 
-b ) Add a customer to a cabin.<br><br>
+### b ) Add a customer to a cabin.<br>
 
 Enter your option :A<br>
 Enter Cabin Number (0-11) to Add a Customer (Enter 12 to Go Back):5<br>
@@ -37,7 +37,38 @@ Enter Customer Name For Cabin 5 :John Garix<br>
 Customer JOHN Added to Cabin 5 Successfully<br>
 Enter your option :<br>
 
-c )
+### c ) View cabins<br>
+
+Enter your option :v<br>
+Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 2 is Empty<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 5 is occupied by JOHN<br>
+Cabin 6 is Empty<br>
+Cabin 7 is Empty<br>
+Cabin 8 is Empty<br>
+Cabin 9 is Empty<br>
+Cabin 10 is Empty<br>
+Cabin 11 is Empty<br>
+Enter your option :<br>
+
+### d ) Display empty cabins<br>
+
+Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 2 is Empty<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 6 is Empty<br>
+Cabin 7 is Empty<br>
+Cabin 8 is Empty<br>
+Cabin 9 is Empty<br>
+Cabin 10 is Empty<br>
+Cabin 11 is Empty<br>
+
+### 
 
 <br> 2) Cruise_Ship_Boarding_Program_Task_2 - This version can hold upto 36 passengers, as 3 passengers per cabin. This version will hold passenger's first name, surname and expences and this consist an sdditional menu item "T" which will give the user the option to print the expenses per passenger as well as the total expenses of all passengers.<br>
 <br> 3) Cruise_Ship_Boarding_Program_Task_3 - As an additional feature, a waiting list of 10 slots is added to the cruise ship. If the cruise ship is full(all cabins are occupied by passengers), then passengers will be added to the waiting list.
@@ -50,7 +81,7 @@ Java 16 or higher
 ### IDE 
 IntelliJ IDEA
 
-### Approach
+### How to run the program
 
 1) First you need to clone this repository
 2) Run this project as part of java code through IntelliJ IDEA.
