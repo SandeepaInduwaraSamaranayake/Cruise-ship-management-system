@@ -15,18 +15,18 @@ In this program exception handling is properly done to deal with any kind of une
 <br> 1) Cruise_Ship_Boarding_Program_Task_1 - This is a basic version of the program with limited features. This version allows you to populate twelve cabins, one passenger for each cabin and perform basic activities like add & delete passengers, Display empty cabins, view all cabin status etc.<br>
 
 Menu example<br>
-______________BOARDING SYSTEM FOR A CRUISE SHIP_________________
+______________BOARDING SYSTEM FOR A CRUISE SHIP_________________<br>
 
-M: Show Menu
-A: Add a Customer to a Cabin
-V: View All Cabins
-E: Display Empty cabins
-D: Delete customer from cabin
-F: Find cabin from customer name
-S: Store program data into file
-L: Load program data from file
-O: View passengers Ordered alphabetically by name
-X: Exit
+M: Show Menu<br>
+A: Add a Customer to a Cabin<br>
+V: View All Cabins<br>
+E: Display Empty cabins<br>
+D: Delete customer from cabin<br>
+F: Find cabin from customer name<br>
+S: Store program data into file<br>
+L: Load program data from file<br>
+O: View passengers Ordered alphabetically by name<br>
+X: Exit<br>
 ________________________________________________________________<br>
 
 <br> 2) Cruise_Ship_Boarding_Program_Task_2 - This version can hold upto 36 passengers, as 3 passengers per cabin. This version will hold passenger's first name, surname and expences and this consist an sdditional menu item "T" which will give the user the option to print the expenses per passenger as well as the total expenses of all passengers.<br>
