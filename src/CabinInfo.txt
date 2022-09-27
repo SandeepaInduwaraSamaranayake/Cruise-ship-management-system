@@ -1,0 +1,12 @@
+Cabin 0 is Empty
+Cabin 1 is Empty
+Cabin 2 is Empty
+Cabin 3 is Empty
+Cabin 4 is Empty
+Cabin 5 is Occupied by JOHN
+Cabin 6 is Empty
+Cabin 7 is Empty
+Cabin 8 is Empty
+Cabin 9 is Empty
+Cabin 10 is Empty
+Cabin 11 is Empty

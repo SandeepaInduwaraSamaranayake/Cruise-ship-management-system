@@ -31,15 +31,15 @@ ________________________________________________________________<br><br>
 
 ### b ) Add a customer to a cabin.<br>
 
-Enter your option :A<br>
+*Enter your option :A<br>
 Enter Cabin Number (0-11) to Add a Customer (Enter 12 to Go Back):5<br>
 Enter Customer Name For Cabin 5 :John Garix<br>
 Customer JOHN Added to Cabin 5 Successfully<br>
-Enter your option :<br>
+Enter your option :*<br>
 
 ### c ) View cabins<br>
 
-Enter your option :v<br>
+*Enter your option :v<br>
 Cabin 0 is Empty<br>
 Cabin 1 is Empty<br>
 Cabin 2 is Empty<br>
@@ -52,23 +52,99 @@ Cabin 8 is Empty<br>
 Cabin 9 is Empty<br>
 Cabin 10 is Empty<br>
 Cabin 11 is Empty<br>
-Enter your option :<br>
+Enter your option :*<br>
 
 ### d ) Display empty cabins<br>
 
-Cabin 0 is Empty<br>
+*Cabin 0 is Empty<br>
 Cabin 1 is Empty<br>
 Cabin 2 is Empty<br>
-Cabin 3 is Empty<br>
+Cabin 3 is Empty<br> 
 Cabin 4 is Empty<br>
 Cabin 6 is Empty<br>
 Cabin 7 is Empty<br>
 Cabin 8 is Empty<br>
 Cabin 9 is Empty<br>
 Cabin 10 is Empty<br>
-Cabin 11 is Empty<br>
+Cabin 11 is Empty*<br>
 
-### 
+### e ) Delete customer from cabin<br>
+
+*Enter your option :d<br>
+Enter Cabin Number to Delete (Enter 12 to Go Back):5<br>
+Customer Deleted successfully*<br>
+
+### f ) Find cabin from customer name
+
+*Enter your option :f<br>
+Enter Name to Find a Customer (q to Go Back):JOHN<br>
+Customer JOHN Located in cabin 5<br>
+Enter your option :*<br>
+
+### g ) Store program data into file<br>
+
+*Enter your option :s<br>
+Successfully wrote to the file CabinInfo.txt<br>
+Enter your option :*<br>
+
+File content of CabinInfo.txt<br>
+
+*Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 2 is Empty<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 5 is Occupied by JOHN<br>
+Cabin 6 is Empty<br>
+Cabin 7 is Empty<br>
+Cabin 8 is Empty<br>
+Cabin 9 is Empty<br>
+Cabin 10 is Empty<br>
+Cabin 11 is Empty*<br>
+
+### h ) Load program data from file<br>
+
+*Enter your option :l<br>
+Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 2 is Empty<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 5 is Occupied by JOHN<br>
+Cabin 6 is Empty<br>
+Cabin 7 is Empty<br>
+Cabin 8 is Empty<br>
+Cabin 9 is Empty<br>
+Cabin 10 is Empty<br>
+Cabin 11 is Empty<br>
+Enter your option :*<br>
+
+### i ) View passengers Ordered alphabetically by name<br>
+
+*Enter your option :v<br>
+Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 2 is occupied by ARICA<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 5 is occupied by DAVID<br>
+Cabin 6 is Empty<br>
+Cabin 7 is occupied by HENRY<br>
+Cabin 8 is Empty<br>
+Cabin 9 is occupied by TEDY<br>
+Cabin 10 is Empty<br>
+Cabin 11 is Empty<br>
+Enter your option :o<br>
+ARICA<br>
+DAVID<br>
+HENRY<br>
+TEDY<br>
+Enter your option :*<br>
+
+### j ) Exit<br>
+
+* This will terminate program *<br>
+
 
 <br> 2) Cruise_Ship_Boarding_Program_Task_2 - This version can hold upto 36 passengers, as 3 passengers per cabin. This version will hold passenger's first name, surname and expences and this consist an sdditional menu item "T" which will give the user the option to print the expenses per passenger as well as the total expenses of all passengers.<br>
 <br> 3) Cruise_Ship_Boarding_Program_Task_3 - As an additional feature, a waiting list of 10 slots is added to the cruise ship. If the cruise ship is full(all cabins are occupied by passengers), then passengers will be added to the waiting list.
