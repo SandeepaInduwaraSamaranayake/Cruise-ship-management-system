@@ -145,8 +145,77 @@ Enter your option :*<br>
 
 * This will terminate program *<br>
 
-
 <br> 2) Cruise_Ship_Boarding_Program_Task_2 - This version can hold upto 36 passengers, as 3 passengers per cabin. This version will hold passenger's first name, surname and expences and this consist an sdditional menu item "T" which will give the user the option to print the expenses per passenger as well as the total expenses of all passengers.<br>
+
+### a ) Show Menu<br>
+
+*______________BOARDING SYSTEM FOR A CRUISE SHIP_________________<br>
+
+M: Show Menu<br>
+A: Add a Customer to a Cabin<br>
+V: View All Cabins<br>
+E: Display Empty Cabins<br>
+D: Delete Customer From Cabin<br>
+F: Find Cabin From Customer Name<br>
+S: Store Program Data Into File<br>
+L: Load Program Data From File<br>
+O: View Passengers Ordered Alphabetically by Name<br>
+T: Print Expenses Per Passenger and Total Expense<br>
+U: Update Expenses<br>
+X: Exit<br>
+________________________________________________________________*<br>
+
+### b ) Add a customer to a cabin.<br>
+
+*Enter your option :a<br>
+Enter Cabin Number (0-11) to Add a Customer (Enter 12 to Go Back) :2<br>
+Enter Customer 1 's First Name For Cabin 2. (Enter q to Go Back) :Loren<br>
+Enter Customer 1 's Surname For Cabin 2. (Enter q to Go Back) :Kim<br>
+Customer LOREN KIM Added to Cabin 2 Successfully<br>
+Enter Customer 2 's First Name For Cabin 2. (Enter q to Go Back) :John<br>
+Enter Customer 2 's Surname For Cabin 2. (Enter q to Go Back) :David<br>
+Customer JOHN DAVID Added to Cabin 2 Successfully<br>
+Enter Customer 3 's First Name For Cabin 2. (Enter q to Go Back) :Mary<br>
+Enter Customer 3 's Surname For Cabin 2. (Enter q to Go Back) :Yelan<br>
+Customer MARY YELAN Added to Cabin 2 Successfully*<br>
+
+Enter your option :
+
+### c ) View All Cabins<br>
+
+*Enter your option :v<br>
+Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 2 is occupied by  |LOREN KIM| |JOHN DAVID| |MARY YELAN|<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 5 is Empty<br>
+Cabin 6 is Empty<br>
+Cabin 7 is Empty<br>
+Cabin 8 is Empty<br>
+Cabin 9 is Empty<br>
+Cabin 10 is Empty<br>
+Cabin 11 is Empty*<br>
+
+Enter your option :
+
+### d )  Display Empty Cabins<br>
+
+*Enter your option :e<br>
+Cabin 0 is Empty<br>
+Cabin 1 is Empty<br>
+Cabin 3 is Empty<br>
+Cabin 4 is Empty<br>
+Cabin 5 is Empty<br>
+Cabin 6 is Empty<br>   
+Cabin 7 is Empty<br>   
+Cabin 8 is Empty<br>   
+Cabin 9 is Empty<br>   
+Cabin 10 is Empty<br>  
+Cabin 11 is Empty*<br>
+
+### e ) 
+
 <br> 3) Cruise_Ship_Boarding_Program_Task_3 - As an additional feature, a waiting list of 10 slots is added to the cruise ship. If the cruise ship is full(all cabins are occupied by passengers), then passengers will be added to the waiting list.
 
 Definition of "cabin is full" - if at least one passenger is in the cabin, the program will consider it as an already occupied cabin.<br>
